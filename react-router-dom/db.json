@@ -1,0 +1,115 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Focused secondary intranet",
+            "author": "Jonathan Barrett",
+            "image": "https://picsum.photos/901",
+            "year": 2018,
+            "page": 317,
+            "price": 255,
+            "description": "Likely woman get walk shake. Respond still thousand both already. Blood act six day.",
+            "category": "felsefe"
+        },
+        {
+            "id": 2,
+            "title": "Decentralized maximized algorithm",
+            "author": "Jasmine Atkins",
+            "image": "https://picsum.photos/902",
+            "year": 2003,
+            "page": 218,
+            "price": 352,
+            "description": "Church we foot out political light. Certainly they project take social hot car. Eat must fall prepare I beautiful. Show various class create southern ball.",
+            "category": "biyografi"
+        },
+        {
+            "id": 3,
+            "title": "Automated actuating software",
+            "author": "Colleen Day",
+            "image": "https://picsum.photos/903",
+            "year": 2022,
+            "page": 501,
+            "price": 247,
+            "description": "Another young bill material what. Social growth most loss. Situation side world boy quickly moment evening. Degree step red involve particularly over. Feeling wonder report today morning.",
+            "category": "biyografi"
+        },
+        {
+            "id": 4,
+            "title": "Assimilated background neural-net",
+            "author": "Bryan White",
+            "image": "https://picsum.photos/904",
+            "year": 1970,
+            "page": 305,
+            "price": 393,
+            "description": "Difference add send air people show he right. Fine indicate stop rest mention. Positive fight around. Challenge determine task shoulder increase laugh policy.",
+            "category": "roman"
+        },
+        {
+            "id": 5,
+            "title": "Ergonomic solution-oriented architecture",
+            "author": "Brian Avila",
+            "image": "https://picsum.photos/905",
+            "year": 1982,
+            "page": 531,
+            "price": 140,
+            "description": "Way item capital hard control. Describe bad wind business western. Still trouble break service always information decade. Reality dog performance everybody challenge fast.",
+            "category": "tarih"
+        },
+        {
+            "id": 6,
+            "title": "Optional maximized success",
+            "author": "Tiffany Farmer",
+            "image": "https://picsum.photos/906",
+            "year": 2011,
+            "page": 314,
+            "price": 437,
+            "description": "Enter road team allow oil up. Over toward professor Republican take talk. Ready not morning along administration. Agree over reveal technology why.",
+            "category": "biyografi"
+        },
+        {
+            "id": 7,
+            "title": "Multi-lateral executive paradigm",
+            "author": "David Wood",
+            "image": "https://picsum.photos/907",
+            "year": 1972,
+            "page": 270,
+            "price": 217,
+            "description": "Step example the many in matter look occur. Mr as clearly sell executive. Social popular speech fast new. Positive school rate really sea probably.",
+            "category": "felsefe"
+        },
+        {
+            "id": 8,
+            "title": "Decentralized client-server hierarchy",
+            "author": "Brendan Chavez",
+            "image": "https://picsum.photos/908",
+            "year": 1994,
+            "page": 232,
+            "price": 263,
+            "description": "Positive blood church about. Knowledge culture campaign short feeling individual human. He fire anything away. Check full woman arrive thus role.",
+            "category": "felsefe"
+        },
+        {
+            "id": 9,
+            "title": "De-engineered well-modulated adapter",
+            "author": "John Curtis",
+            "image": "https://picsum.photos/909",
+            "year": 2023,
+            "page": 521,
+            "price": 463,
+            "description": "Thousand boy foot human several. Movement manage our you tree its employee. Strategy care able industry. Product may bank call partner article yes issue. All stay onto result of throw single.",
+            "category": "bilimkurgu"
+        },
+        {
+            "id": 10,
+            "title": "User-friendly multi-state superstructure",
+            "author": "Loretta Gomez",
+            "image": "https://picsum.photos/910",
+            "year": 2019,
+            "page": 551,
+            "price": 415,
+            "description": "Fund us speak. Occur will cold him surface two. People simply how clearly chance former degree. Out sea dark stuff attorney give. Long dream very TV wait. Should book along job.",
+            "category": "tarih"
+        }
+    ]
+  
+  }
